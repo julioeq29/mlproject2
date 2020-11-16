@@ -2,7 +2,7 @@
 
 # Import from standard library
 import os
-import mlproject
+import mlproject2
 import pandas as pd
 # Import from our lib
 from mlproject2.tools import haversine
